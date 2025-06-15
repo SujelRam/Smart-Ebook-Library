@@ -1,3 +1,5 @@
+*Smart Ebook Library*
+
 **Project Overview** Free eBook library app is a simple, elegant, and functional mobile application built with Flutter. The app allows users to browse, read, and download public domain eBooks books whose copyrights have expired and completely free to use.
 
 All books are sourced from trusted public archives like https://openlibrary.org/subjects/pictures , https://www.gutenberg.org/ 
