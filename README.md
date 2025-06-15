@@ -29,7 +29,8 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 📱💡 **Android Studio Virtual Device**: Used for running and testing the app on Android emulators during development.
 
 ### Screenshots of UI
-![Home page](screenshots/Home page.png)
+**Home Page**
+<img src="screenshots/Home page.png">
 ![Book Detail](Book Detail.png)
 ![Download notify](Downloaded.png)
 ![Download page](Download page.png)
