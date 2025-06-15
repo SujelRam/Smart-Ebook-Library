@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Smart-Ebook-Library
-Project Overview Free eBook Reader is a simple, elegant, and functional mobile application built with Flutter. The app allows users to browse, read, and download public domain eBooks books whose copyrights have expired and are completely free to use.  
-=======
 # Smart Ebook Library
 
 ### Project Overview 
@@ -55,4 +51,3 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 
 **Ebook Reader** <br>
 <img src="screenshots/Screenshot_1749977111.png" width="200" height="400">
->>>>>>> master
