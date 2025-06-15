@@ -30,7 +30,7 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 
 ### Screenshots of UI
 **Home Page**
-<img src="screenshots/Home page.png">
+<img src="screenshots/Home page.png" width="200" height="500">
 ![Book Detail](Book Detail.png)
 ![Download notify](Downloaded.png)
 ![Download page](Download page.png)
