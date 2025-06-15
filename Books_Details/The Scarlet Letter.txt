@@ -1,0 +1,7 @@
+id: '10',
+title: 'The Scarlet Letter',
+author: 'Nathaniel Hawthorne',
+
+Description : A stark and allegorical tale of adultery, guilt, and social repression in Puritan New England, The Scarlet Letter is a foundational work of American literature. Nathaniel Hawthorne's exploration of the dichotomy between the public and private self, internal passion and external convention, gives us the unforgettable Hester Prynne, who discovers strength in the face of ostracism and emerges as a heroine ahead of her time.
+
+Subjects Fiction, Puritans, Puritans in fiction, History, Adultery in fiction, Adultery

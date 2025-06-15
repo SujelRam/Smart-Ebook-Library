@@ -1,0 +1,7 @@
+id: '8',
+title: 'A Tale of Two Cities',
+author: 'Charles Dickens'
+
+Description : In the early days of the French Revolution, a young Englishman determines to do the utmost to save the husband of the woman he loves from the guillotine.
+
+Subjects : British, British and irish fiction (fictional works by one author), Children's fiction, Criticism and interpretation, English fiction, English literature

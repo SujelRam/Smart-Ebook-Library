@@ -1,0 +1,7 @@
+id: '1',
+title: 'Pride and Prejudice',
+author: 'Jane Austen',
+Description,
+Pride and Prejudice (1813) by Jane Austen follows Elizabeth Bennet as she learns the consequences of hasty judgments and the value of true character. Mr. Bennet has five daughters, but his estate can only pass to a male heir, making it crucial for at least one daughter to marry well to secure the family's future.
+
+Subjects: Fiction, Romance, Historical

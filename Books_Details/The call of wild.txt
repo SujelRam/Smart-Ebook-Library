@@ -1,0 +1,7 @@
+id: '9',
+title: 'The Call of the Wild',
+author: 'Jack London',
+
+Description : As Buck, a mixed breed dog, is taken away from his home, instead of facing a feast for breakfast and the comforts of home, he faces the hardships of being a sled dog. Soon he lands in the wrong hands, being forced to keep going when it is too rough for him and the other dogs in his pack. He also fights the urges to run free with his ancestors, the wolves who live around where he is pulling the sled.
+
+Subjects Gold discoveries, Bienestar, Lobos, Descubrimiento de oro, Crítica e interpretación, American Nature stories, Cartoons and comics, Feral dogs, Robo de mascotas, Pet theft, Dogs in literature

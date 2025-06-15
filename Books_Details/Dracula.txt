@@ -1,0 +1,11 @@
+id: '5',
+title: 'Dracula',
+author: 'Bram Stoker'
+
+description : Dracula is one of the most famous public-domain horror novels in existence, responsible not just for introducing the eponymous Count Dracula, but for introducing many of the common tropes we see in modern horror fiction.
+
+Count Dracula isn’t the first vampire to have graced the pages of literature—that honor is thought to belong to Lord Ruthven in The Vampyr, by John William Polidori—but Dracula is the vampire on which modern vampires are based.
+
+Dracula wasn’t as famous in its day as it is today; readers of the time seemed to enjoy it as nothing more than a good story, and Stoker died nearly penniless. But its long-lasting influence is undeniable, and for all its age Dracula remains a gripping, fast-paced, and enjoyable read.
+
+Subjects :  Count Dracula (Fictitious character), Dracula, Conde (Personaje literario), Horror, Thriller, Vampires, Psychological fiction

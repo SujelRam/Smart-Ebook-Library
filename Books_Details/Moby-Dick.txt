@@ -1,0 +1,7 @@
+id: '4',
+title: 'Moby-Dick',
+author: 'Herman Melville',
+
+Description : Moby Dick (1851) by Herman Melville begins with the famous line “Call me Ishmael.” The novel blends adventure, vengeance, and whaling lore as Ishmael joins the Pequod, unaware of Captain Ahab’s obsession with hunting the white whale, Moby Dick. Drawing from Melville’s own whaling experiences, the book is rich in detail and style, ranging from soliloquies to ship inventories. This is the New York edition, which restored original content and included the previously omitted epilogue.
+
+Subjects :  Science Fiction & Fantasy
