@@ -36,13 +36,13 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 <img src="screenshots/Book Detail.png" width="200" height="400">
 
 **Download notify msg**
-<img src="screenshots/Downloaded.png" width="200" height="400">
+<img src="screenshots/Downloaded.png" width="200" height="200">
 
 **Download page**
 <img src="screenshots/Download page.png" width="200" height="400">
 
 **Search enginee**
-<img src="screenshots/Search enginee.png" width="200" height="400">
+<img src="screenshots/Search enginee.png" width="200" height="200">
 
 **Ebook Reader**
 <img src="screenshots/Screenshot_1749977111.png" width="200" height="400">
