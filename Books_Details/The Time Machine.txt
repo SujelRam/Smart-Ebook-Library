@@ -1,0 +1,7 @@
+id: '7',
+title: 'The Time Machine',
+author: 'H.G. Wells'
+
+description : The Time Machine is the novel that gave us the concept of—and even the word for—a “time machine.” While it’s not Wells’ first story involving time travel, it is the one that most fully fleshes out the concept of a device that can send a person backwards and forwards in time with complete precision. Time machines have since become a staple of the science fiction and fantasy genres, making The Time Machine one of the most deeply influential science fiction novels of the era.
+
+Subjects : Self-experimentation in medicine in fiction, Fiction, Time travel in fiction, Dystopias in fiction

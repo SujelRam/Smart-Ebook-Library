@@ -1,0 +1,9 @@
+id : 3
+title: 'Frankenstein',
+author: 'Mary Shelley'
+
+Description : Frankenstein; or, The Modern Prometheus (1818) is a novel written by English author Mary Shelley. The novel follows Victor Frankenstein, a young scientist who, using unorthodox scientific experiments, creates a sapient creature. At just 18 years old Shelley began writing the novel which was later published anonymously in London in 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821.
+
+Frankenstein; or, The Modern Prometheus (1818) is a novel written by English author Mary Shelley. The novel follows Victor Frankenstein, a young scientist who, using unorthodox scientific experiments, creates a sapient creature. At just 18 years old Shelley began writing the novel which was later published anonymously in London in 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821.
+
+Subjects Frankenstein (Fictitious character), Frankenstein's monster (Fictitious character), Fiction,Horror

@@ -1,0 +1,9 @@
+id: '6',
+title: 'The Picture of Dorian Gray',
+author: 'Oscar Wilde',
+
+description : The Picture of Dorian Gray (1891) is a philosophical novel by Irish playwright Oscar Wilde; it is his only novel. The story centre’s on Dorian Gray, the subject of a full-length portrait in oil by Basil Hallward, an artist impressed and infatuated by Dorian’s beauty. Through Basil, Dorian meets Lord Henry Wotton, an aristocrat who teaches him that beauty and sensual fulfilment are the only things worth pursuing in life. 
+
+The Picture of Dorian Gray (1891) is a philosophical novel by Irish playwright Oscar Wilde; it is his only novel. The story centre's on Dorian Gray, the subject of a full-length portrait in oil by Basil Hallward, an artist impressed and infatuated by Dorian's beauty. Through Basil, Dorian meets Lord Henry Wotton, an aristocrat who teaches him that beauty and sensual fulfilment are the only things worth pursuing in life.
+
+Subjects : British and irish fiction (fictional works by one author), Conduct of life, fiction, Fantasy fiction, Children's fiction
