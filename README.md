@@ -30,9 +30,19 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 
 ### Screenshots of UI
 **Home Page**
-<img src="screenshots/Home page.png" width="200" height="500">
-![Book Detail](Book Detail.png)
-![Download notify](Downloaded.png)
-![Download page](Download page.png)
-![Search enginee](Search enginee.png)
-![Epub reader](Screenshot_1749977111.png) 
+<img src="screenshots/Home page.png" width="200" height="400">
+
+**Book Detail page**
+<img src="screenshots/Book Detail.png" width="200" height="400">
+
+**Download notify msg**
+<img src="screenshots/Downloaded.png" width="200" height="400">
+
+**Download page**
+<img src="screenshots/Download page.png" width="200" height="400">
+
+**Search enginee**
+<img src="screenshots/Search enginee.png" width="200" height="400">
+
+**Ebook Reader**
+<img src="screenshots/Screenshot_1749977111.png" width="200" height="400">
