@@ -20,11 +20,18 @@ All books are sourced from trusted public archives like https://openlibrary.org/
 🌐 **Link to Source**: Direct links to Project Gutenberg downloads.
 
 ### Technology Stack
-- **Flutter**: The app is built using the Flutter framework, which uses the Dart programming language to create natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Dart**: The programming language used for Flutter development.
-- **url_launcher**: A Flutter package used to launch URLs in the mobile platform's default browser or external applications.
-- **Material Design**: The app UI is designed using Flutter's Material Design components for a modern and responsive user interface.
-- **Platform Support**: The app supports multiple platforms including Android, iOS, macOS, Windows, and Linux, leveraging their respective SDKs.
-- **Public Domain eBook Sources**: The app sources eBooks from trusted public archives such as Open Library and Project Gutenberg.
-- **Android Studio Virtual Device**: Used for running and testing the app on Android emulators during development.
+🧱 **Flutter**: The app is built using the Flutter framework, which uses the Dart programming language to create natively compiled applications for mobile, web, and desktop from a single codebase.
+💻 **Dart**: The programming language used for Flutter development.
+🌐 **url_launcher**: A Flutter package used to launch URLs in the mobile platform's default browser or external applications.
+🎨 **Material Design**: The app UI is designed using Flutter's Material Design components for a modern and responsive user interface.
+🖥️📱 **Platform Support**: The app supports multiple platforms including Android, iOS, macOS, Windows, and Linux, leveraging their respective SDKs.
+📚 **Public Domain eBook Sources**: The app sources eBooks from trusted public archives such as Open Library and Project Gutenberg.
+📱💡 **Android Studio Virtual Device**: Used for running and testing the app on Android emulators during development.
 
+### Screenshots of UI
+![Home page](screenshots/Home page.png)
+![Book Detail](Book Detail.png)
+![Download notify](Downloaded.png)
+![Download page](Download page.png)
+![Search enginee](Search enginee.png)
+![Epub reader](Screenshot_1749977111.png) 
